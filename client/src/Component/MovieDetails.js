@@ -170,7 +170,7 @@ function MovieDetails (props) {
           {/* <ReactPlayer url={item.trailer} style={{'margin-left': '25vw'}}/> */}
           <div>
             <ReactPlayer className="player" url={item.trailer} />
-            You like the trailer ?
+            Give your feedback
             <div className="text-left ">
               {/* <h6>Your view</h6> */}
               <Tooltip Tooltip title="Like" placement={'top'}>
