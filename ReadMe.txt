@@ -32,6 +32,8 @@ Step 4 :	After successfully completed installing
 
 		--> npm Start
 
+The App Starts with  App.js	
+
 	to Run the frontend part
 
 path for frontend - http://localhost:3000/my-app/
@@ -53,6 +55,8 @@ Step 7 :	After successfully completed installing
 	run the server by typing 
 
 		--> npm start
+
+The server  Starts with  Server.js	
 
 you can check server response on the frontend by reloading the tab  or by typing 
 		
