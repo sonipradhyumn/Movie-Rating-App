@@ -20,7 +20,7 @@ function App () {
   const Routing = () => {
     return (
       <Switch>
-        <Route exact path="/Movie-Rating-App" render={() => { return <Redirect to="/my-app" /> }}/>
+        <Route exact path="/" render={() => { return <Redirect to="/my-app" /> }}/>
         <Route exact path="/my-app" component={Homepage} />
         <Route exact path="/my-app/genre" component={MovieByGenre} />
         <Route exact path="/my-app/allmovies/" component={AllMovies} />
