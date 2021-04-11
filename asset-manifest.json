@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Movie-Rating-App/static/css/main.8d34c256.chunk.css",
+    "main.js": "/Movie-Rating-App/static/js/main.cbfbc11b.chunk.js",
+    "main.js.map": "/Movie-Rating-App/static/js/main.cbfbc11b.chunk.js.map",
+    "runtime-main.js": "/Movie-Rating-App/static/js/runtime-main.16cdad9a.js",
+    "runtime-main.js.map": "/Movie-Rating-App/static/js/runtime-main.16cdad9a.js.map",
+    "static/js/2.697858a4.chunk.js": "/Movie-Rating-App/static/js/2.697858a4.chunk.js",
+    "static/js/2.697858a4.chunk.js.map": "/Movie-Rating-App/static/js/2.697858a4.chunk.js.map",
+    "static/js/3.d4e5a66c.chunk.js": "/Movie-Rating-App/static/js/3.d4e5a66c.chunk.js",
+    "static/js/3.d4e5a66c.chunk.js.map": "/Movie-Rating-App/static/js/3.d4e5a66c.chunk.js.map",
+    "index.html": "/Movie-Rating-App/index.html",
+    "static/css/main.8d34c256.chunk.css.map": "/Movie-Rating-App/static/css/main.8d34c256.chunk.css.map",
+    "static/js/2.697858a4.chunk.js.LICENSE.txt": "/Movie-Rating-App/static/js/2.697858a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16cdad9a.js",
+    "static/js/2.697858a4.chunk.js",
+    "static/css/main.8d34c256.chunk.css",
+    "static/js/main.cbfbc11b.chunk.js"
+  ]
+}
