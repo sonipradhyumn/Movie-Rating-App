@@ -1,0 +1,56 @@
+.movie_detail{
+    display: flex;
+    margin-left: 4vh;
+    margin-right: 4vh;
+}
+.Movie{
+    width:100vw;
+}
+.detail{
+    /* padding-left: 3vw;
+    padding-top: 5vh; */
+    width: 50vw;
+}
+.feel{
+    height:20px;
+    width:40px
+}
+// .box{
+//     min-height: 70vh;
+//     max-height: 70vh !important;
+// }
+.img-fluid{
+    height: 69.81vh;
+    // height: 50vh;
+}
+.feel:hover{
+cursor: pointer;
+color:#5b3769
+}
+.player{
+    width: 50vw;
+    height: 61vh;
+}
+.movielist{
+    flex-wrap: wrap;
+}
+.list-inline{
+    margin-left: 4vw;
+    padding-top: 5vh;
+}
+.list-inline-item .btn-outline-info{
+    color : white;
+     border:1px solid rgb(112, 38, 134) ; 
+    background-color:black ;
+}
+.list-inline-item .btn-outline-info:hover{
+    color : white;
+     border:1px solid rgb(112, 38, 134) ; 
+    background-color:#5b3769; ;
+}
+.middle{
+    width: 90vw;
+    // overflow: hidden;
+    padding-left: 2vw;
+    // padding-top: vh;
+}
