@@ -14,13 +14,7 @@ const {
   // deleteroute,
 } = require ('../controller/routes');
 const router = express.Router ();
-/*  //initial routes but now we have created  using controller methods
-router.get('/',(req,res)=>{res.status(200).json({success:true,msg:'show all files'})});
-router.get('/:id',(req,res)=>{});
-router.post('/',(req,res)=>{});
-router.put('/:id',(req,res)=>{});
-router.delete('/:id',(req,res)=>{});
-*/
+//All routes
 router.route ('/all').get (getroutes); //.post (createroute);
 router.route ('/movie/:title').get (getRouteByTitle); //.put (updateroute).delete (deleteroute);
 router.route ('/genre/:genre').get (getRoutesByGenre);
